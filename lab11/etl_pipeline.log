@@ -1,0 +1,45 @@
+2026-04-16 23:48:42,351 - INFO - Starting extract
+2026-04-16 23:48:42,909 - INFO - Extracted rows: 20
+2026-04-17 00:40:45,676 - INFO - Starting extract
+2026-04-17 00:40:46,259 - INFO - Extracted rows: 20
+2026-04-17 00:40:46,259 - INFO - Starting transform
+2026-04-17 00:40:46,277 - INFO - Transformed rows: 20
+2026-04-17 00:41:08,968 - INFO - Starting extract
+2026-04-17 00:41:09,354 - INFO - Extracted rows: 20
+2026-04-17 00:41:09,354 - INFO - Starting transform
+2026-04-17 00:41:09,366 - INFO - Transformed rows: 20
+2026-04-17 00:41:09,366 - INFO - Starting load
+2026-04-17 00:41:09,372 - INFO - Loaded rows: 21
+2026-04-17 00:42:04,110 - INFO - ETL START
+2026-04-17 00:42:04,111 - INFO - Starting extract
+2026-04-17 00:42:04,561 - INFO - Extracted rows: 20
+2026-04-17 00:42:04,561 - INFO - Starting transform
+2026-04-17 00:42:04,571 - INFO - Transformed rows: 20
+2026-04-17 00:42:04,571 - INFO - Starting load
+2026-04-17 00:42:04,575 - INFO - Loaded rows: 21
+2026-04-17 00:42:04,575 - INFO - ETL END
+2026-04-17 00:44:47,484 - INFO - Starting extract
+2026-04-17 00:44:47,982 - INFO - Extracted rows: 20
+2026-04-17 00:44:47,982 - INFO - Starting transform
+2026-04-17 00:44:47,996 - INFO - Transformed rows: 20
+2026-04-17 00:45:14,245 - INFO - Starting extract
+2026-04-17 00:45:14,705 - INFO - Extracted rows: 20
+2026-04-17 00:45:14,705 - INFO - Starting transform
+2026-04-17 00:45:14,717 - INFO - Transformed rows: 20
+2026-04-17 00:45:37,139 - INFO - ETL START
+2026-04-17 00:45:37,141 - INFO - Starting extract
+2026-04-17 00:45:37,543 - INFO - Extracted rows: 20
+2026-04-17 00:45:37,543 - INFO - Starting transform
+2026-04-17 00:45:37,555 - INFO - Transformed rows: 20
+2026-04-17 00:45:37,555 - INFO - Starting load
+2026-04-17 00:45:37,559 - INFO - Loaded rows: 21
+2026-04-17 00:45:37,559 - INFO - ETL END
+2026-04-17 01:00:42,475 - INFO - Starting transform
+2026-04-17 01:00:42,486 - INFO - Transformed rows: 1
+2026-04-17 01:00:42,487 - INFO - Starting transform
+2026-04-17 01:00:42,490 - WARNING - Duplicate emails found
+2026-04-17 01:00:42,492 - INFO - Transformed rows: 1
+2026-04-17 01:00:42,494 - INFO - Starting transform
+2026-04-17 01:00:42,496 - WARNING - Missing emails found
+2026-04-17 01:00:42,497 - INFO - Transformed rows: 0
+2026-04-17 01:00:42,498 - INFO - Starting transform
