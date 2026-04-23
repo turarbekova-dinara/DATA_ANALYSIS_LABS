@@ -1,0 +1,6 @@
+[
+  { "_id": 1, "name": "Chair", "price": 80, "category": "Furniture", "tags": ["wood"], "stock": 20 },
+  { "_id": 2, "name": "Headphones", "price": 66, "category": "Electronics", "tags": ["audio", "wireless"], "stock": 15 },
+  { "_id": 3, "name": "Table", "price": 200, "category": "Furniture", "tags": ["wood"], "stock": 10 },
+  { "_id": 4, "name": "Smart Watch", "price": 120, "category": "Electronics", "tags": ["wearable"], "stock": 5 }
+]

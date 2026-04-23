@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "customer": "Alice",
+    "date": "2024-01-10T00:00:00.000Z",
+    "items": [
+      { "productId": 2, "quantity": 2 },
+      { "productId": 1, "quantity": 1 }
+    ],
+    "total": 212,
+    "status": "pending"
+  },
+  {
+    "_id": 2,
+    "customer": "Bob",
+    "date": "2024-02-15T00:00:00.000Z",
+    "items": [
+      { "productId": 3, "quantity": 1 }
+    ],
+    "total": 200,
+    "status": "shipped"
+  },
+  {
+    "_id": 3,
+    "customer": "Charlie",
+    "date": "2024-02-20T00:00:00.000Z",
+    "items": [
+      { "productId": 2, "quantity": 1 },
+      { "productId": 4, "quantity": 1 }
+    ],
+    "total": 186,
+    "status": "delivered"
+  },
+  {
+    "_id": 4,
+    "customer": "Alice",
+    "date": "2024-03-05T00:00:00.000Z",
+    "items": [
+      { "productId": 3, "quantity": 2 }
+    ],
+    "total": 400,
+    "status": "shipped"
+  }
+]
